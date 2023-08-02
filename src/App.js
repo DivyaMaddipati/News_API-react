@@ -1,5 +1,5 @@
-import { faker } from '@faker-js/faker';
-import Card from './Card';
+// import { faker } from '@faker-js/faker';
+// import Card from './Card';
 import News from './News';
 function App() {
   return (
